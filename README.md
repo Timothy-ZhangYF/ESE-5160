@@ -3,10 +3,6 @@
     * Team Number: 9
     * Team Name: Shorts & Sparks
     * Team Members: James Steeman and Tim Zhang
-    * Github Repository URL: https://github.com/ese5160/a14g-final-submission-s25-t09-shorts-sparks
-    * Description of test hardware: Detkin Desktop (Windows 10), MacBook Pro M2 (Mac OS), Our PCBAs, LSM6DSO IMU, Servo Motor, DC motor, our mechanical assembly
-    
-    (development boards, sensors, actuators, laptop + OS, etc) 
 
 ## 1. Video Presentation
 
@@ -232,12 +228,3 @@ This is the early diagram that remained mostly ture for throughout the PCB imple
 
 [Application Folder in course repo](https://github.com/ese5160/final-project-t09-shorts-sparks/tree/main/Application)
 
-### Node-RED dashboard code
-
-[Node-RED Dashboard Flows](http://172.190.141.169:1880/#flow/61499bec7a1919ef)
-
-[Node-RED Dashboard UI](http://172.190.141.169:1880/ui/#!/0?socketid=omYwd3cGNLqyJbqNAAD4)
-
-### Other Software
-
-N/A
