@@ -72,11 +72,6 @@ What steps are needed to finish or improve this project?
     - Implement kalman filter for sensor fusion
     - Implement PID for tilt compensation (moving servo)
 
-What did you learn in ESE5160 through the lectures, assignments, and this course-long prototyping project?
-
-- The lectures gave a initial idea of embedded design considerations, the approach to Altium, RTOS fundamentals, and bootloader and otafu fundamentals
-- The assignments expanded on these and gave opportunity for practical implementation experience and a deeper understanding
-- The Project taught a significant amount formalizing embedded concepts and how to approach project specific constraints and goals. Our reflections in the Prototype Learnings section express some of this.
 
 ### Project Links
 
