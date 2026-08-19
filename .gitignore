@@ -31,3 +31,5 @@ secret.h
 # no source files allowed in final repo
 *.c
 *.h 
+
+.DS_Store
