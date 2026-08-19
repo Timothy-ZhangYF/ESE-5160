@@ -163,4 +163,4 @@ This is the early diagram that remained mostly ture for throughout the PCB imple
 ## CAD
 
 
-![Mechanical CAD](EC_MCAD.md)
+[Mechanical CAD](EC_MCAD.md)
