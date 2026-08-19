@@ -156,9 +156,11 @@ This is the early diagram that remained mostly ture for throughout the PCB imple
 
 ## Codebase
 
-### Firmware
-
 [Bootloader Folder in course repo](https://github.com/ese5160/final-project-t09-shorts-sparks/tree/main/Bootloader)
 
 [Application Folder in course repo](https://github.com/ese5160/final-project-t09-shorts-sparks/tree/main/Application)
+
+## CAD
+
+
 
